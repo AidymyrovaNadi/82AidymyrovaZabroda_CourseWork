@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bee">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAIAAAASAAgAAAAYASDBAAAAAI=</HashCode>
+      <FileName>Bee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parents">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAgAAAAAAAEAAAAAAAAAAAgAAAAAIAAAQAAAA=</HashCode>
+      <FileName>Genetic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Children">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAABCAQAIIQAAAAAAAAAAAAAAAAAACCAIAAgAIA=</HashCode>
+      <FileName>Genetic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mutation">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAACAFAAAQAAAAA=</HashCode>
+      <FileName>Genetic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewPopulation">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Genetic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Genetic">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAABAAAAgAAAABAABAABAAAAAAAAAAABAAAAQA=</HashCode>
+      <FileName>Genetic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeomLines" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAwACAAAQAEAAAABAAAIAAAAQAAAAGAQAAAAAAAA=</HashCode>
+      <FileName>GeomLines.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeomLine" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAQAAAAAAAAAAAABQQgBAAAAAABAAiAQAIAAAAAQ=</HashCode>
+      <FileName>GeomLines.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Greedy">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABQAQAAA=</HashCode>
+      <FileName>Greedy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>main.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rand" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAAAAAAAAAAAAAAACAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Rand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecordSolution" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAEAIAAAAAAAAAAAAAAIAAAAAAAgAAAEAAA=</HashCode>
+      <FileName>RecordSolution.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Segments" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAABACAAAkAAABAAECAAAAAAEAAg=</HashCode>
+      <FileName>Segments.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
